@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+ul{
+	display: flex;
+	gap: 15px;
+	list-style: none;
+}
+ul li a{
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: bold;
+}
